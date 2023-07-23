@@ -2,6 +2,11 @@
 
 This repository contains the code for a Driver Drowsiness Detection System implemented using Python and various libraries, including OpenCV, TensorFlow, NumPy, Matplotlib, Keras, and Pygame. The goal of this project is to detect when a driver closes their eyes for more than 15 seconds and trigger an alert to prevent potential accidents due to drowsiness.
 
+
+## Dataset used
+http://mrl.cs.vsb.cz/eyedataset
+
+
 ## Features
 * Real-time webcam-based drowsiness detection.
 
